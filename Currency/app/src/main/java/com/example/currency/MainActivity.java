@@ -90,7 +90,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData() {
         rate.put("Australia - Dollar", 1.39);
-        rate.put("Canada - Dollar", 1.26);
         rate.put("China - Yuan", 6.66);
         rate.put("Europe - Euro", 0.93);
         rate.put("Japan - Yen", 130.84);
@@ -98,23 +97,18 @@ public class MainActivity extends AppCompatActivity {
         rate.put("Russia - Rouble", 63.36);
         rate.put("Singapore - Dollar", 1.37);
         rate.put("Switzerland - Franc", 0.96);
-        rate.put("Thailand - Baht", 34.29);
         rate.put("United Kingdom - Pound", 0.8);
         rate.put("United States - Dollar", 1d);
-        rate.put("Vietnam - Dong", 23160.71);
+        rate.put("Vietnam - VND", 23160.71);
         abbr.put("Australia - Dollar", "AUD");
-        abbr.put("Canada - Dollar", "CAD");
         abbr.put("China - Yuan", "CNY");
         abbr.put("Europe - Euro", "EUR");
         abbr.put("Japan - Yen", "JPY");
         abbr.put("Korea - Won", "KRW");
         abbr.put("Russia - Rouble", "RUB");
-        abbr.put("Singapore - Dollar", "SGD");
-        abbr.put("Switzerland - Franc", "CHF");
-        abbr.put("Thailand - Baht", "THB");
         abbr.put("United Kingdom - Pound", "GBP");
         abbr.put("United States - Dollar", "USD");
-        abbr.put("Vietnam - Dong", "VND");
+        abbr.put("Vietnam - VND", "VND");
     }
 
     private void initEvent() {

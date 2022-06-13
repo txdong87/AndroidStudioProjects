@@ -3,12 +3,6 @@
     <string name="ce">CE</string>
     <string name="clear">C</string>
     <string name="bs">BS</string>
-    <string name="chia">/</string>
-    <string name="nhan">*</string>
-    <string name="cong">+</string>
-    <string name="tru">-</string>
-    <string name="bang">=</string>
-    <string name="plusMinus" >+/-</string>
     <string name="dot">.</string>
     <string name="zero">0</string>
     <string name="one">1</string>

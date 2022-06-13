@@ -2,7 +2,6 @@
 <resources>
     <string-array name="currencies_array">
         <item>Australia - Dollar</item>
-        <item>Canada - Dollar</item>
         <item>China - Yuan</item>
         <item>Europe - Euro</item>
         <item>Japan - Yen</item>
@@ -10,9 +9,8 @@
         <item>Russia - Rouble</item>
         <item>Singapore - Dollar</item>
         <item>Switzerland - Franc</item>
-        <item>Thailand - Baht</item>
         <item>United Kingdom - Pound</item>
         <item>United States - Dollar</item>
-        <item>Vietnam - Dong</item>
+        <item>Vietnam - VND</item>
     </string-array>
 </resources>
