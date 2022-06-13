@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable/ic_dehaze.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable/ic_mode.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable/ic_star.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/drawable/ic_star_outline.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/layout/box.xml" value="0.2" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/layout/inbox_item.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/menu/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/menu/toolbar_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/xml/backup_rules.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/TXDONG/AndroidStudioProjects/Email/app/src/main/res/xml/data_extraction_rules.xml" value="0.17889492753623187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
